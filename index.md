@@ -13,7 +13,7 @@ Tuke is a memory client that works on Lunar and BLC as well as normal versions o
 ![Tuke Menu](tuke.png)
 
 ### [**ppclicker**](https://github.com/akryl1k/chub.github.io/blob/gh-pages/ppclicker.exe?raw=true)
-PPclicker is the definitive best autoclicker out there. It works on almost every version of minecraft and does it's job really well.
+PPclicker is the definitive best autoclicker out there. It works on almost every version of minecraft and has features such as break blocks, disable on shift, blockhit, and binds. It's very robust for what it is.
 
 ![ppclicker Menu](ppclicker.png)
 
