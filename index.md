@@ -2,45 +2,19 @@
 
 This website is a collection of **safe** minecraft cheats. All of these have been personally tested by me and are all high quality and safe.
 
-### [**Crypt** _(cracked)_]()
-Crypt is a premium hacked client that can be injected into Minecraft Forge and Vanilla. It was cracked by the kangaroos and is now free for you all :
-_Features:_
+### [**Crypt**](https://github.com/akryl1k/chub.github.io/blob/gh-pages/crypt.exe?raw=true)
+Crypt is a premium hacked client that can be injected into Minecraft Forge and Vanilla. It was cracked by the kangaroos and is now free for you all. Doesn't work on Lunar/BLC. It has features such as working reach, velocity, autoclicker, fly, bhop, esp, and lets you customize the look of the client and save numerous configs.
 
--Auto Clicker
--Aim Assist
--Reach
--Velocity
--Flight
--Step
--Bhop
--Sprint
--Air Control
--ESP
+### [**Tuke**](https://github.com/akryl1k/chub.github.io/blob/gh-pages/tuke.exe?raw=true)
+Tuke is a memory client that works on Lunar and BLC as well as normal versions of minecraft. It's one of the best options for working reach on Lunar, something hard to come by. It has an autoclicker, reach, and a memory hacking tool.
 
-```markdown
-Syntax highlighted code block
+### [**ppclicker**](https://github.com/akryl1k/chub.github.io/blob/gh-pages/ppclicker.exe?raw=true)
+PPclicker is the definitive best autoclicker out there. It works on almost every version of minecraft and does it's job really well.
 
-# Header 1
-## Header 2
-### Header 3
+### FAQ 
+**Q:** _X_ client isn't working! Help!
 
-- Bulleted
-- List
+**A:** Contact nx#3637
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akryl1k/chub.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Q:** When will you update _X_ client?
+**A:** These clients, with the exception of ppclicker, are discontinued. 
