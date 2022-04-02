@@ -5,6 +5,7 @@ This website is a collection of **safe** minecraft cheats. All of these have bee
 ### [**Crypt** _(cracked)_]()
 Crypt is a premium hacked client that can be injected into Minecraft Forge and Vanilla. It was cracked by the kangaroos and is now free for you all :
 _Features:_
+
 -Auto Clicker
 -Aim Assist
 -Reach
