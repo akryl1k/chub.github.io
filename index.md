@@ -4,13 +4,18 @@ This website is a collection of **safe** minecraft cheats and ghost clients. All
 
 ### [**Crypt**](https://github.com/akryl1k/chub.github.io/blob/gh-pages/crypt.exe?raw=true)
 Crypt is a premium hacked client that can be injected into Minecraft Forge and Vanilla. It was cracked by the kangaroos and is now free for you all. Doesn't work on Lunar/BLC. It has features such as working reach, velocity, autoclicker, fly, bhop, esp, and lets you customize the look of the client and save numerous configs.
+
 ![crypt](crypt.png)
 
 ### [**Tuke**](https://github.com/akryl1k/chub.github.io/blob/gh-pages/tuke.exe?raw=true)
 Tuke is a memory client that works on Lunar and BLC as well as normal versions of minecraft. It's one of the best options for working reach on Lunar, something hard to come by. It has an autoclicker, reach, and a memory hacking tool.
 
+![Tuke Menu](tuke.png)
+
 ### [**ppclicker**](https://github.com/akryl1k/chub.github.io/blob/gh-pages/ppclicker.exe?raw=true)
 PPclicker is the definitive best autoclicker out there. It works on almost every version of minecraft and does it's job really well.
+
+![ppclicker Menu](ppclicker.png)
 
 ### [**Vape**](https://jelte.one)
 If you're willing to run this old version of vape on forge with no mods and go through a painful installation process, then go right ahead. ONLY works on forge, incompatible with most mods (optifine included)
