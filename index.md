@@ -12,7 +12,7 @@ Tuke is a memory client that works on Lunar and BLC as well as normal versions o
 PPclicker is the definitive best autoclicker out there. It works on almost every version of minecraft and does it's job really well.
 
 ### [**Vape**](https://jelte.one)
-If you're willing to run this old version of vape on forge with no mods (this ver. of vape is incompatible with them) and go through a painful installation process, then go right ahead. ONLY works on forge, incompatible with most mods (optifine included)
+If you're willing to run this old version of vape on forge with no mods and go through a painful installation process, then go right ahead. ONLY works on forge, incompatible with most mods (optifine included)
 
 ### FAQ 
 **Q:** _X_ client isn't working! Help!
