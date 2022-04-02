@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to CheatHub
 
-You can use the [editor on GitHub](https://github.com/akryl1k/chub.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This website is a collection of **safe** minecraft cheats. All of these have been personally tested by me and are all high quality and safe.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [**Crypt** _(cracked)_]()
+Crypt is a premium hacked client that can be injected into Minecraft Forge and Vanilla. It was cracked by the kangaroos and is now free for you all :
+_Features:_
+-Auto Clicker
+-Aim Assist
+-Reach
+-Velocity
+-Flight
+-Step
+-Bhop
+-Sprint
+-Air Control
+-ESP
 
 ```markdown
 Syntax highlighted code block
