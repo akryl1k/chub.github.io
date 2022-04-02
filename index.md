@@ -17,4 +17,12 @@ PPclicker is the definitive best autoclicker out there. It works on almost every
 **A:** Contact nx#3637
 
 **Q:** When will you update _X_ client?
-**A:** These clients, with the exception of ppclicker, are discontinued. 
+
+**A:** Crypt is a crack and will not be updated. Tuke is discontinued afaik. ppclicker will be updated regularly.
+
+**Q:** Will you add new cheats?
+
+**A:** Yes. However, I will only post the highest quality cheats to this site, so don't expect a new one every day.
+
+### Support
+nx#3637 enkrypt1337@gmail.com 
