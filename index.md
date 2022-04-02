@@ -1,6 +1,6 @@
 ## Welcome to CheatHub
 
-This website is a collection of **safe** minecraft cheats. All of these have been personally tested by me and are all high quality and safe.
+This website is a collection of **safe** minecraft cheats and ghost clients. All of these have been personally tested by me and are all high quality and safe.
 
 ### [**Crypt**](https://github.com/akryl1k/chub.github.io/blob/gh-pages/crypt.exe?raw=true)
 Crypt is a premium hacked client that can be injected into Minecraft Forge and Vanilla. It was cracked by the kangaroos and is now free for you all. Doesn't work on Lunar/BLC. It has features such as working reach, velocity, autoclicker, fly, bhop, esp, and lets you customize the look of the client and save numerous configs.
