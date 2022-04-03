@@ -2,13 +2,15 @@
 
 A collection of safe cheats.
 
-## Clients
+### Clients
 
 [Crypt](https://github.com/akryl1k/chub.github.io/blob/gh-pages/crypt.exe?raw=true)
 
 [Tuke](https://github.com/akryl1k/chub.github.io/blob/gh-pages/tuke.exe?raw=true)
 
 [Koid](https://github.com/akryl1k/chub.github.io/blob/gh-pages/koid.exe?raw=true)
+
+### Clickers
 
 [ppclicker](https://github.com/akryl1k/chub.github.io/blob/gh-pages/ppclicker.exe?raw=true)
 
