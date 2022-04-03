@@ -16,3 +16,4 @@ A collection of safe cheats.
 
 [Nebula](https://github.com/akryl1k/chub.github.io/blob/gh-pages/nebula.exe?raw=true)
 
+made with <3 by akryl1k
