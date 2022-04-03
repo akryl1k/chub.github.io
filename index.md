@@ -17,13 +17,16 @@ PPclicker is the best autoclicker imo. It works on almost every version of minec
 
 ![ppclicker Menu](ppclicker.png)
 
-### [Nebula](https://github.com/akryl1k/chub.github.io/blob/gh-pages/nebula.exe?raw=true)
+[Nebula](https://github.com/akryl1k/chub.github.io/blob/gh-pages/nebula.exe?raw=true)
+
 Nebula is another great autoclicker. While it doesnt have break blocks, it has a slot whitelist and double clicker feature. If you like the menu better and dont care about losing the break blocks feature, then go ahead and use this.
 
 ![Nebula Menu](nebula.png)
 
 ### [Vape](https://jelte.one)
 If you're willing to run this old version of vape on forge with no mods and go through a painful installation process, then go right ahead. ONLY works on forge, incompatible with most mods (optifine included)
+
+
 
 ### FAQ 
 **Q:** _X_ client isn't working! Help!
