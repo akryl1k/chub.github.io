@@ -39,7 +39,7 @@ Nebula is another great autoclicker. While it doesnt have break blocks, it has a
 If you're willing to run this old version of vape on forge with no mods and go through a painful installation process, then go right ahead. ONLY works on forge, incompatible with most mods (optifine included)
 
 ### Upcoming clients & to add list
--Nebula Client: 
+### -Nebula Client:
 The team behind the nebula autoclicker is making an external client with working aim assist and reach on lunar. Expect a release within the next few weeks.
 
 
