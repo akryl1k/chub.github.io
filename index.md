@@ -1,6 +1,6 @@
 ## Welcome to CheatHub
 
-A collection of safe cheats.
+A collection of safe cheats
 
 ### Clients
 
